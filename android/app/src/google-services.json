@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "369683197244",
+    "project_id": "tfcprojet",
+    "storage_bucket": "tfcprojet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369683197244:android:4274bfb84214c39f058239",
+        "android_client_info": {
+          "package_name": "com.example.apisaissai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369683197244-5grn68jcb9f10aqk5ho6smt1jbh45bgp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.apisaissai",
+            "certificate_hash": "abeb5edff3465a7aa40f32445f19223128cb484a"
+          }
+        },
+        {
+          "client_id": "369683197244-plm9hufhqblnpo2sgumrkfcc38a5cgea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5HG-JGLFuFSh1vT3f7JLpZVlnDSNYkjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369683197244-plm9hufhqblnpo2sgumrkfcc38a5cgea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
